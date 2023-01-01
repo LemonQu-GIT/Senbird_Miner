@@ -55,7 +55,7 @@ public class GameWin extends JFrame {
         this.setLocationRelativeTo(null);
         this.setTitle("森鸟矿工");
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
-        this.setIconImage(new ImageIcon("img/peo.png").getImage());
+        this.setIconImage(new ImageIcon("img/Senbird.png").getImage());
         addMouseListener(new MouseAdapter() {
             @Override
             public void mouseClicked(MouseEvent e) {

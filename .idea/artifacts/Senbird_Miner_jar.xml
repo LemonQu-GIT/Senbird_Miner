@@ -6,8 +6,8 @@
         <element id="module-output" name="Senbird_Miner" />
       </element>
       <element id="directory" name="img">
-        <element id="file-copy" path="$PROJECT_DIR$/img/bg.png" />
-        <element id="file-copy" path="$PROJECT_DIR$/img/bg1.jpg" />
+        <element id="file-copy" path="$PROJECT_DIR$/img/background.png" />
+        <element id="file-copy" path="$PROJECT_DIR$/img/sky.jpg" />
         <element id="file-copy" path="$PROJECT_DIR$/img/gold0.png" />
         <element id="file-copy" path="$PROJECT_DIR$/img/gold1.png" />
         <element id="file-copy" path="$PROJECT_DIR$/img/gold2.png" />

@@ -44,9 +44,10 @@ public class Bg {
                 }
                 break;
             case 3:
-                drawWord(g, 50, Color.YELLOW, "你没有达到目标分", 180, 350);
-                drawWord(g, 50, Color.YELLOW, "矿工：我要降你等地！！！", 130, 450);
-                drawWord(g, 50, Color.YELLOW, "你共获得" + count +"点金钱", 200, 550);
+                drawWord(g, 40, Color.YELLOW, "你触犯了矿工第114514条法律", 130, 380);
+                drawWord(g, 50, Color.YELLOW, "构成未达到目标分罪", 170, 450);
+                drawWord(g, 50, Color.YELLOW, "矿工：我要降你等地！！！", 130, 550);
+                drawWord(g, 50, Color.YELLOW, "你共获得" + count +"点金钱", 200, 650);
                 break;
             default:
         }
