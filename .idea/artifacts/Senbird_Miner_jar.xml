@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact name="Senbird_Miner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Senbird_Miner_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Senbird_Miner.jar">
+        <element id="module-output" name="Senbird_Miner" />
+      </element>
+      <element id="directory" name="img">
+        <element id="file-copy" path="$PROJECT_DIR$/img/bg.png" />
+        <element id="file-copy" path="$PROJECT_DIR$/img/bg1.jpg" />
+        <element id="file-copy" path="$PROJECT_DIR$/img/gold0.png" />
+        <element id="file-copy" path="$PROJECT_DIR$/img/gold1.png" />
+        <element id="file-copy" path="$PROJECT_DIR$/img/gold2.png" />
+        <element id="file-copy" path="$PROJECT_DIR$/img/hook.png" />
+        <element id="file-copy" path="$PROJECT_DIR$/img/peo.png" />
+        <element id="file-copy" path="$PROJECT_DIR$/img/rock1.png" />
+      </element>
+    </root>
+  </artifact>
+</component>
